@@ -39,7 +39,7 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
+    name: Mright
     description: Technical  Artist  of  Games   
     pic_url: /images/me.jpg
     goto_ulr: ""
